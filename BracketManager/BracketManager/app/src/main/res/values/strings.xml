@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Bracket Manager</string>
+    <string name="hint_nameTitle">Name</string>
+    <string name="button_addName">Add</string>
+    <string name="button_deleteName">Delete</string>
+    <string name="menu_addName">Add</string>
+    <string name="menu_cancelName">Cancel</string>
+    <string name="button_saveName">Save</string>
+    <string name="textview">Bracket Manager</string>
+    <string name="new_tourney">New Tourney</string>
+    <string name="load_tourney">Load Tourney</string>
+    <string name="manager">Manager</string>
+    <string name="options">Options</string>
+    <string name="create_tourney">Create Tourney</string>
+    <string name="number_of_participants">Number of participants:</string>
+</resources>
